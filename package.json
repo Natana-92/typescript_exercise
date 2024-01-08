@@ -1,0 +1,22 @@
+{
+  "name": "typescript_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natana-92/typescript_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natana-92/typescript_exercise/issues"
+  },
+  "homepage": "https://github.com/Natana-92/typescript_exercise#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
